@@ -6,6 +6,7 @@ PROG 103 Code
 
 ### Duck guessing Game
 Game where you guess how many ducks are hiding
+
 ![Screenshot_22-10-2025_17822_](https://github.com/user-attachments/assets/9451a3cb-cf01-4062-b178-6fae80641876)
 
 ### Compostion Creator
@@ -18,5 +19,6 @@ Game where you guess how many ducks are hiding
 
 ### Morse Code Converter
 Converted Words into Morse Code, a user can type any word they wish 
+
 <img width="934" height="590" alt="Screenshot 2025-10-01 175538" src="https://github.com/user-attachments/assets/65108b8d-94f4-40c5-9079-dab86f104d7a" />
 
