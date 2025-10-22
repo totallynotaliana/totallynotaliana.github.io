@@ -22,3 +22,7 @@ Converted Words into Morse Code, a user can type any word they wish
 
 <img width="934" height="590" alt="Screenshot 2025-10-01 175538" src="https://github.com/user-attachments/assets/65108b8d-94f4-40c5-9079-dab86f104d7a" />
 
+### 7 Day Weather Forcast for Chicago
+Showed the weather for Chicago through the corse of 7 days, was completed in October which is why the tempertures are so low 
+
+![Screenshot_8-10-2025_175729_](https://github.com/user-attachments/assets/9e2e1826-2a42-4db0-bcd2-69c40ec36250)
