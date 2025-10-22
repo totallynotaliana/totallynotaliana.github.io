@@ -16,4 +16,7 @@ Game where you guess how many ducks are hiding
 <img width="896" height="690" alt="Screenshot 2025-09-10 180203" src="https://github.com/user-attachments/assets/2f1b7fe7-fa1d-4a04-adcd-e0c8da3081d3" />
 <img width="597" height="496" alt="Screenshot 2025-09-24 171448" src="https://github.com/user-attachments/assets/12a370f3-6052-4e6f-b243-07d180d2f24f" />
 
+### Morse Code Converter
+Converted Words into Morse Code, a user can type any word they wish 
+<img width="934" height="590" alt="Screenshot 2025-10-01 175538" src="https://github.com/user-attachments/assets/65108b8d-94f4-40c5-9079-dab86f104d7a" />
 
