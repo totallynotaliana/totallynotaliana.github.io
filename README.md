@@ -1,4 +1,4 @@
-[Getting to school (1).html](https://github.com/user-attachments/files/23063360/Getting.to.school.1.html)# Programming Portfolio
+# Programming Portfolio
 All work here was done in during my PROG - 102 class 
 
 ## Code Projects
@@ -30,3 +30,4 @@ Showed the weather for Chicago through the corse of 7 days, was completed in Oct
 ### Flowchart to Interactive Experience (Twine)
 Practice with creating a flow chart in Twine 
 
+[Getting to school (1).html](https://github.com/user-attachments/files/23063360/Getting.to.school.1.html)
