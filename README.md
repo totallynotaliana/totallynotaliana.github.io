@@ -1,8 +1,8 @@
 # Programming Portfolio
-All work here was done in during my PROG- 102 class 
+All work here was done in during my PROG - 102 class 
 
 ## Code Projects
-PROG 103 Code
+PROG 102 Code
 
 ### Duck guessing Game
 Game where you guess how many ducks are hiding
