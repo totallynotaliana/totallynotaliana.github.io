@@ -35,3 +35,8 @@ Practice with creating a flow chart in Twine
 <img width="3072" height="1920" alt="Screenshot 2025-12-09 205046" src="https://github.com/user-attachments/assets/a10b4bd5-60be-4200-8cb8-ffd90e837eb3" />
 <img width="1751" height="486" alt="Screenshot 2025-12-09 205211" src="https://github.com/user-attachments/assets/c7e02ebf-2e06-4765-9589-c1e55c098a80" />
 
+## Larger Scale project
+
+### AI in art
+Link to website : file:///C:/Users/Minec/Downloads/AI%20in%20art%20final%20project/default.htm
+
