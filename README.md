@@ -40,3 +40,13 @@ Practice with creating a flow chart in Twine
 ### AI in art
 Link to website : file:///C:/Users/Minec/Downloads/AI%20in%20art%20final%20project/default.htm
 
+- Created a small website with multiple tabs displaying information
+- Each tab showcased research I've done on how AI is affecting art
+
+<img width="3072" height="1920" alt="Screenshot 2025-12-09 205954" src="https://github.com/user-attachments/assets/1f8cc90a-29a8-4511-b2b6-a575becf7365" />
+<img width="3072" height="1920" alt="Screenshot 2025-12-09 210012" src="https://github.com/user-attachments/assets/2ffa6d25-213c-46e6-9d15-470ad1882270" />
+<img width="3072" height="1920" alt="Screenshot 2025-12-09 210033" src="https://github.com/user-attachments/assets/7676ae23-4b7f-43bc-b0d5-0b0865c619da" />
+<img width="3072" height="1920" alt="Screenshot 2025-12-09 210045" src="https://github.com/user-attachments/assets/b75de448-b689-4bee-b664-2a97ac3bad4b" />
+
+
+
